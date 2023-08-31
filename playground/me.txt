@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shivansh Garg
-Skills: HTML, CSS, JS, Python
-Email: shivanshgarg787@gmail.com
-{{/user}}
